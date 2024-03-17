@@ -151,6 +151,13 @@ a::after {
   content: "";
   width: 100%;
   position: absolute;
+  left: 0;
+  bottom: -1px;
+  border-radius: 2px;
+  /* width: 48px; */
+  height: 4px;
+  background: #404bbf;
+  /* background-color: #404bbf; */
 }
 
 /* ===========MAIN============== */
