@@ -145,6 +145,7 @@ a:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  /* 250ms */
   transition: color cubic-bezier(0.4, 0, 0.2, 1);
 }
 
