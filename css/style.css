@@ -102,6 +102,7 @@ ol {
 .first-link {
   padding-top: 24px;
   padding-bottom: 24px;
+  position: relative;
 }
 a:hover {
   color: #404bbf;
