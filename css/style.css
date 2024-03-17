@@ -272,7 +272,8 @@ a::after {
   height: 112px;
   margin-bottom: 8px;
   background-color: #f4f4fd;
-  fill: transparent;
+  /* fill: transparent; */
+  fill: #f4f4fd;
 }
 
 .features-item-title {
