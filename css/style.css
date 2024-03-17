@@ -272,6 +272,7 @@ a::after {
   height: 112px;
   margin-bottom: 8px;
   background-color: #f4f4fd;
+  fill: transparent;
 }
 
 .features-item-title {
