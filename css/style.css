@@ -149,6 +149,8 @@ a:focus {
 
 a::after {
   content: "";
+  width: 100%;
+  position: absolute;
 }
 
 /* ===========MAIN============== */
