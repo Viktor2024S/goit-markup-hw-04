@@ -407,6 +407,8 @@ a::after {
 
 .portfolio-wrap {
   /* text */
+  position: relative;
+  overflow: hidden;
 }
 
 .portfolio {
