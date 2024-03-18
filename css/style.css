@@ -399,6 +399,16 @@ a::after {
 }
 /* ===========MAIN============== */
 /* ===========4-PORTFOLIO============== */
+
+.portfolio-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.portgolio-wrap {
+  /* text */
+}
+
 .portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
