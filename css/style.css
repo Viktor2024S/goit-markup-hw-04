@@ -168,7 +168,8 @@ a::after {
   bottom: -1px;
   border-radius: 2px;
   height: 4px;
-  background: #404bbf;
+  /* wild blue line */
+  /* background: #404bbf; */
 }
 
 /* ===========MAIN============== */
