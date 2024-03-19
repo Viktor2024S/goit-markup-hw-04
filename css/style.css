@@ -445,7 +445,7 @@ a::after {
 
 .portfolio-item:hover .overlay,
 .portfolio-item:focus .overlay {
-  transition: transform translateY(0%);
+  transform: translateY(0%);
 }
 
 .app {
