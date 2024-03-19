@@ -404,6 +404,7 @@ a::after {
   /* text */
   position: relative;
   overflow: hidden;
+  transform: translateY(0%);
 }
 
 .portfolio-image-text {
