@@ -386,7 +386,6 @@ a::after {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
-  text-align: center;
 }
 
 .icon {
@@ -528,6 +527,13 @@ a::after {
 
 .footer-item-link {
   display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: #4d5ae5;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .footer-item-link:hover,
