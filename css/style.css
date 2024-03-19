@@ -401,10 +401,9 @@ a::after {
 } */
 
 .portfolio-wrap {
-  /* text */
   position: relative;
   overflow: hidden;
-  transform: translateY(0%);
+  transition: transform translateY(0%);
 }
 
 .portfolio-image-text {
@@ -526,7 +525,8 @@ a::after {
   margin-bottom: 16px;
 }
 
-.footer-link:hover .footer-link:focus {
+.footer-link:hover,
+.footer-link:focus {
   background-color: #31d0aa;
 }
 
