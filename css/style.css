@@ -526,7 +526,7 @@ a::after {
 }
 
 .footer-link:hover,
-.footer-link:hover {
+.footer-link:focus {
   background-color: #31d0aa;
 }
 .link-span-footer {
