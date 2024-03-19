@@ -269,7 +269,7 @@ a::after {
   margin-bottom: 8px;
   background-color: #f4f4fd;
 
-  fill: #f4f4fd;
+  /* fill: #f4f4fd; */
 }
 
 .features-item-title {
