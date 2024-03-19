@@ -350,7 +350,8 @@ a::after {
   height: 40px;
 }
 
-.team-member-link {
+.team-member-link,
+.footer-link {
   width: 100%;
   height: 100%;
   background-color: #4d5ae5;
