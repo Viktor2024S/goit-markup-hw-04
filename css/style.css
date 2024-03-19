@@ -535,6 +535,8 @@ a::after {
   color: #4d5ae5;
   /* display: inline-block; */
   margin-bottom: 16px;
+  /*  */
+  display: flex;
   height: 100%;
   width: 100%;
   display: flex;
@@ -544,7 +546,7 @@ a::after {
 }
 
 /* .footer-item-link {
-  display: flex;
+
 
   background-color: #4d5ae5;
   border-radius: 50%;
